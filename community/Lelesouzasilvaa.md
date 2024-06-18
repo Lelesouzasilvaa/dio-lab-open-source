@@ -15,8 +15,8 @@ Profissional dedicada e entusiasta da tecnologia com experiência em desenvolvim
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills</title>
-   <style>
+<!--     <title>Skills</title> -->
+<!--    <style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -25,7 +25,7 @@ Profissional dedicada e entusiasta da tecnologia com experiência em desenvolvim
         th, td {
             padding: 10px;
         }
-    </style>
+    </style> -->
 </head>
 <body>
 
